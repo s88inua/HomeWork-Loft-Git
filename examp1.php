@@ -6,8 +6,8 @@
  * Time: 14:40
  */
 
-echo"Hellolo world";
-echo"Hellolo world";
-echo"Hellolo world";
-echo"Hellolo world";
-echo"Hellolo world";
+$name = 'Yerik';
+$age = 31;
+echo 'My name: ' , $name . '</br>';
+echo 'Im am ' , $age . '</br>';
+echo ' “!|/’”\ ' . '</br>';
