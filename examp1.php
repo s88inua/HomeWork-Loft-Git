@@ -8,6 +8,6 @@
 
 $name = 'Yerik';
 $age = 31;
-echo 'My name: ' , $name . '</br>';
-echo 'Im am ' , $age . '</br>';
+echo 'Меня зовут: ' , $name . '</br>';
+echo 'Мой возраст' , $age . '</br>';
 echo ' “!|/’”\ ' . '</br>';
