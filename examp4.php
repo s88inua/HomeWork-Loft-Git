@@ -5,6 +5,7 @@
  * Date: 12/11/18
  * Time: 15:21
  */
+
 $day = rand(0, 8);
 switch ($day) {
     case 1:
