@@ -25,7 +25,7 @@ echo $cars['Opel']['model'] . ' ' . $cars['Opel']['speed'] . ' ' . $cars['Opel']
 
 foreach ($cars as $brand => $all_cars) {
     echo '</br>';
-    echo 'Car' . $brand . '</br>';
+    echo 'Car ' . $brand . '</br>';
     foreach ($all_cars as $inner_key => $value) {
         echo $value . ' ';
     }
