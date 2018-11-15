@@ -7,8 +7,14 @@
  */
 
 
-$name = 'Yerik';
+$name = 'Юрий';
 $age = 31;
 echo 'Меня зовут: ' , $name . '</br>';
-echo 'Мой возраст' , $age . '</br>';
-echo ' “!|/’”\ ' . '</br>';
+echo 'Мой возраст ' , $age . '</br>';
+echo ' “ ' . '</br>';
+echo ' ! ' . '</br>';
+echo ' |' . '</br>';
+echo ' / ' . '</br>';
+echo ' \' ' . '</br>';
+echo ' " ' . '</br>';
+echo ' \ ' . '</br>';
